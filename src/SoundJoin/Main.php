@@ -12,6 +12,7 @@ use BukkitPE\level\sound\FizzSound;
 use BukkitPE\level\sound\EndermanTeleportSound;
 use BukkitPE\level\sound\DoorSound;
 use BukkitPE\level\sound\BatSound;
+use BukkitPE\level\sound\ExplodeSound
 
 class Main extends PluginBase implements Listener{
 
